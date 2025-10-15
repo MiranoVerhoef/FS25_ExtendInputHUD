@@ -8,7 +8,7 @@
     <description>
         <en>Expands the number of lines shown in the F1 Input Help menu to fit more controls.</en>
     </description>
-    <iconFilename>icon.dds</iconFilename>
+    <iconFilename>icon_extendInputHUD.dds</iconFilename>
     <multiplayer supported="true"/>
     <extraSourceFiles>
         <sourceFile filename="ExtendedInputHUD.lua" />
