@@ -8,7 +8,6 @@ Expands the number of lines shown in the F1 (Input Help) menu in Farming Simulat
 **Features**
 - Compatible with Farming Simulator 25
 - Dynamically adjusts to UI scale
-- Multiplayer-safe
 - Uses FS25 descVersion 92
 
 **Installation**
